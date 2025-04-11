@@ -1,2 +1,2 @@
 # Kalkulator-Job
-Für Fabian
+Diesen Taschenrechner widme ich Ausbilder Fabian
